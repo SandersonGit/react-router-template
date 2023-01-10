@@ -5,7 +5,7 @@ function HomePage() {
   return (
     <MainContainer>
       <Header />
-      <h1>Página Inicial</h1>
+      <h1>Página Inicial clique no botão da direita</h1>
     </MainContainer>
   );
 }
